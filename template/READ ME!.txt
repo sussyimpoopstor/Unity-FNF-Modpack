@@ -1,0 +1,39 @@
+Hi! Thanks for downloading UNITY PARTY engine by Rei the Goat on Gamejolt! 
+Programmed entirely by Rei the Goat.
+Logo and some arts by UniBrine.
+
+https://gamejolt.com/@ShatteredDevs
+---------------------------------------------------
+This is a template bundle for V.PUBLIC ALPHA BUILD 1 of Unity Party!
+To get started, you can go to C:\Users\<USERNAME>\AppData\LocalLow\Rei\FridayNight\Songs and put export!
+It should then look like C:\Users\<USERNAME>\AppData\LocalLow\Rei\FridayNight\Songs\Template
+You got it? Cool! Now have fun modifying the package to however you want and add your own song !
+
+---------------------------------------------------
+SONGS: 
+The Instrumental is always named Inst and is in .ogg format
+same for the Voices, it's Voices.ogg
+The Chart is the same as the Original FNF one, just import the difficulty you want!
+
+META: 
+The bundle has a meta file which has the main infos of the bundle such as name and author.
+All songs have their own meta too!
+All the text in "" supports RGB, Italic and Bold, 
+just simply do <color=#RGB>text</color> for colors
+<b>text</b> for bold
+<i>text</i> for italic
+They also stack up! so you can do <color=red><b>Bold Red Text</color></b>
+
+COVER :
+It's an image that can be put in every songs, it's a square resolution, you can modify the template one or make it bigger
+or if you don't know what to put, you can delete it and it'll put a basic one with the FNF logo!
+
+SONG LIST:
+The songs in a bundle are in alphabetical order unless you put 01-99 as start of the folder name, they won't show up in-game tho!
+It serves as a way to organize songs without annoyance.
+
+---------------------------------------------------
+Sorry if there isn't anything like a Character creator yet, it is in the work as it is an ALPHA! We've got a lot of plans for this engine.
+Stay tuned!
+If you want to download some bundles, we have a discord!
+https://discord.gg/rn97bwYjPx
